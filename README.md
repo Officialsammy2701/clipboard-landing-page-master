@@ -29,22 +29,18 @@ Users should be able to:
 
 ### Screenshot
 
-#### Desktop
+#### Desktop-preview
 <p align="center">
-  <img src="./images/desktop-preview.png" width="650">
+  <img src="./images/screenshot.png" width="650">
 </p>
 
-#### Mobile
-<p align="center">
-  <img src="./images/mobile-preview.png" width="250">
-</p>
-
-[View full page screenshot](./images/desktop-preview.png)
+[View full desktop page screenshot](./images/desktop-preview.png)
+[View full mobile page screenshot](./images/mobile-preview.png)
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live Site URL](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/Officialsammy2701/clipboard-landing-page-master)
+- Live Site URL: [Live Site URL](https://officialsammy2701.github.io/clipboard-landing-page-master/)
 
 ## My process
 
