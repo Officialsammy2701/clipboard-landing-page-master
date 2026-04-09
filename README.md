@@ -34,8 +34,8 @@ Users should be able to:
   <img src="./images/screenshot.png" width="650">
 </p>
 
-[View full desktop page screenshot](./images/desktop-preview.png)
-[View full mobile page screenshot](./images/mobile-preview.png)
+- [View full desktop page screenshot](./images/desktop-preview.png)
+- [View full mobile page screenshot](./images/mobile-preview.png)
 
 ### Links
 
